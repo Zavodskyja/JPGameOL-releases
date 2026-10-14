@@ -34,6 +34,7 @@ Press `Alt+Q` and everything on screen becomes clickable. Hover or click a word 
   <img src="https://github.com/user-attachments/assets/d68fed5e-b170-41b2-9cfb-117f9ea3650a" width="700" alt="The scan overlay with a dictionary popup">
 </p>
 
+
 ### Always-on overlay *(experimental)*
 Boxes stay on the text while you play, and your clicks go through to the game. Press the hotkey whenever you want to look something up. Boxes disappear as soon as the text changes or the camera moves. To keep the screen calm, it can read only your dialogue box instead of every sign in the scene.
 
@@ -61,6 +62,13 @@ Words are underlined as **new**, **learning** or **known**, using your Anki card
   <img src="https://github.com/user-attachments/assets/1fdc6916-64c7-4909-be6d-3ca48bc64f4d" width="400" alt="Status underlines in a dialogue box">
 </p>
 
+### Grammar tab *(New)*
+You can click through grammar points of selected word based on context of the sentence. Dictionaries are supported.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3fd9f4c-b971-4d28-a5fa-be9dcc08aaa4" width="700" alt="Grammar tab in the overlay">
+</p>
+
 
 ### Regions for dialogue boxes
 Draw a box around the dialogue window once. Niappu Companion watches it and sends every new line to the text page on its own. It can even notice where the dialogue is and offer to make the region for you. Region presets switch automatically with the game in front.
@@ -86,9 +94,11 @@ The browser extension (Chrome, Edge) brings the same popup to websites: hold `Sh
 
 ### Your dictionaries, your words
 Use any Yomitan dictionary: terms, names, kanji, frequency lists and pitch accent. The setup guide downloads openly licensed ones for you (Jitendex, JMnedict, Jiten frequency, Kanjium pitch). Saved words keep their sentence, picture and audio, export to Anki or CSV, and are backed up daily.
+Choose which dictionary is used for what.
+
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9fa338af-6271-474f-9bc6-7f4d7ca9ab08" width="700" alt="The saved words page">
+  <img src="https://github.com/user-attachments/assets/d6f4576c-d5d7-47ac-ba59-92740e04152e" width="700" alt="The saved words page">
 </p>
 
 ## Safe for online games
